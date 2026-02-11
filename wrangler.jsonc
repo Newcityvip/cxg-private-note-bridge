@@ -1,5 +1,5 @@
 {
-  "name": "cxg-private-note-bridge-v2",
+  "name": "cxg-private-note-bridge",
   "main": "src/index.js",
   "compatibility_date": "2026-02-11"
 }
